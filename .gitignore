@@ -1,0 +1,16 @@
+# Old versions
+old/
+*.old
+
+# Downloaded files
+temp/
+
+# Authentication files
+*.dat
+cred.py
+
+# Compiled files
+*.pyc
+
+# Output files
+*.out
